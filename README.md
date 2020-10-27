@@ -2,7 +2,7 @@
 
 I write Android Apps and some other random things. More about me:
 
-- My recent projects are at [GitLab](https://gitlab.com/davidtiagodev) 
+- I have some projects at [GitLab](https://gitlab.com/davidtiagodev) 
 - I do post some updates at [Twitter](https://twitter.com/davidtiagocon)
 - My profile at [LinkedIn](https://www.linkedin.com/in/davidtiagoconceicao/) has a lot of my professional experience
 - Some of my old posts about Android are at [Medium](https://medium.com/@davidtiagocon)
